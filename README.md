@@ -1,5 +1,6 @@
 # Topic :
-The Case Study On AI Driven Smart Ticketing In Metro
+The Case Study On AI Driven Smart Ticketing In Metro.  
+
 # Body
   
 o This case study looks at how AI-powered ticketing systems can make public transport more efficient and easier for people to use.   
